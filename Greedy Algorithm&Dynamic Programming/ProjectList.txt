@@ -1,0 +1,4 @@
+Selected Projects:  9	11	23	1	38	15	32	
+
+Group 1 Projects: 9	11	23			Total Time = 57
+Group 2 Projects: 1	38	15	32		Total Time = 59
